@@ -1,0 +1,9 @@
+{
+  "input_pdf": "OracleProgram.pdf",
+  "output_dir": "out",
+  "excel": "filenames.xlsx",
+  "sheet": null,
+  "col": "name",
+  "template": "page_{num:03d}",
+  "start": 1
+}
